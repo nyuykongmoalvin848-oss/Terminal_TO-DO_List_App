@@ -10,6 +10,7 @@ if [[ -f "tasks.txt" ]]; then
         cat -n "tasks.txt"
 fi
 
+
 echo ""
 
 arg=$2
